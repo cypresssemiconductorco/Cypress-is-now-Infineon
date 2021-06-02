@@ -1,5 +1,5 @@
 # Cypress-is-now-Infineon
-Cypress content is now available in the Infineon organization.
+Cypress repositories are now available in the Infineon organization.
 
 With the acquisition of Cypress by Infineon, our customers have access to a combined comprehensive portfolio for linking the real world with the digital world.
 Our portfolio offers an unparalleled range of hardware, software and security solutions for the connected age.
