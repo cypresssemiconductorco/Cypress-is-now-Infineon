@@ -9,8 +9,11 @@ As part of that effort, we are in the process of combining the Cypress GitHub or
 
 The following repositories are now available in the Infineon Technologies GitHub Organization:
 https://github.com/cypresssemiconductorco/PSoC-4-BLE
+
 https://github.com/cypresssemiconductorco/EZ-BLE_PRoC_Module
+
 https://github.com/cypresssemiconductorco/bleapp
+
 https://github.com/cypresssemiconductorco/CyScope
 https://github.com/cypresssemiconductorco/CypressAcademy_PSoC101_Files
 https://github.com/cypresssemiconductorco/CypressAcademy_WICED_WiFi101_Files
