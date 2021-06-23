@@ -5,7 +5,7 @@ With the acquisition of Cypress by Infineon, our customers have access to a comb
 Our portfolio offers an unparalleled range of hardware, software and security solutions for the connected age.
 
 Along with our combined portfolio, we are moving toward providing one interface for all our collateral and tools to our customers and partners.
-As part of that effort, we are in the process of combining the Cypress GitHub organization (cypresssemiconductorco) with the Technologies GitHub organization (Infineon).
+As part of that effort, we are in the process of combining the Cypress GitHub organization (cypresssemiconductorco) with the Infineon Technologies GitHub organization (Infineon).
 
 The following repositories are now available in the Infineon Technologies GitHub Organization:
 https://github.com/cypresssemiconductorco/PSoC-4-BLE
